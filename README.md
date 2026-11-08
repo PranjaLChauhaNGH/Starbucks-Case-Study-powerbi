@@ -34,7 +34,6 @@ Orders per customer and net revenue per customer by membership tier, net revenue
 All pages have date and category slicers.
 
 ## Key Insights
-> Fill each answer with the real numbers from your dashboard.
 1. **Investment:** CN generated the most net revenue ($44,500), while CA generated the least ($41,410).
 2. **Payment risk:** Mobile App had the highest refund rate (0.16%), and Cash the lowest (0.14%).
 3. **Loyalty:** Non-Member customers brought the most net revenue per customer ($20,215).
